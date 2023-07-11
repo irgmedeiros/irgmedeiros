@@ -39,7 +39,7 @@ If you'd like to grab coffee or meetup, I'd love to connect. New acquaintances a
 
 [twitter]: https://twitter.com/irgmedeiros
 [linkedin]: https://www.linkedin.com/in/igor-medeiros
-[email]: mailto:9tj771ynq@mozmail.com
+[email]: mailto:irgmedeiros@proton.me
 [python]: https://www.python.org/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [typescript]: https://www.typescriptlang.org/
