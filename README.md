@@ -7,7 +7,7 @@
 <hr></hr>
 
 
-I am a experienced **software engineer | tech lead** with over a decade of experience designing and building **User-Centered Distributed Systems** and **Web Apps**. I'm passionate about building solutions that create real value for users and have meaningful impact.
+I am a experienced **senior software engineer** with over a decade of experience designing and leading development of **User-Centered Distributed Systems** and **Web Apps**. I'm passionate about building solutions that create real value for users and have meaningful impact.
 
 New to Berlin and looking to connect with the local tech community. Let's meet up to talk shop about software engineering, startups, open source, or other areas of shared interest! I recently relocated here and would love to learn more about the inspiring work happening in the city.
 
@@ -16,7 +16,7 @@ If you'd like to grab coffee or meetup, I'd love to connect. New acquaintances a
 ---
 
 <div align="center">
-<strong>Favorite Tech-Stack | Contact me!</strong>
+<strong>Favorite Tech-Stack | Social Profiles</strong>
 </div>
 </br>
 
