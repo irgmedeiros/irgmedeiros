@@ -1,17 +1,17 @@
-### Hey there! Welcome to my GitHub! 👋 👋 </br></br>
+### Hey there!! 👋 👋 </br></br>
 
 <img src="https://raw.githubusercontent.com/irgmedeiros/irgmedeiros/main/Banner.png"/>
 
-> Software development, for me, is all about collaboratively solving problems, using everyone's skills to the max, and having fun along the way. It's like a thrilling escape room adventure! 🧩 💪👫 🧑‍💻 🎉 🏃‍♀️🚪
+> Software development, for me, is all about collaboratively solving problems, using everyone's skills to the max, and having fun along the way. It's like an escape-room game puzzle! 🧩 💪👫 🧑‍💻 🎉 🏃‍♀️🚪
 
 <hr></hr>
 
 
-I am a experienced **senior software engineer** with over a decade of experience designing and leading development of **User-Centered Distributed Systems** and **Web Apps**. I'm passionate about building solutions that create real value for users and have meaningful impact.
+I am an experienced **senior software engineer** with over a decade of experience designing and leading development of **User-Centered Web Apps and APIs** . I'm passionate about building solutions that create real value for users and have meaningful impact.
 
-New to Berlin and looking to connect with the local tech community. Let's meet up to talk shop about software engineering, startups, open source, or other areas of shared interest! I recently relocated here and would love to learn more about the inspiring work happening in the city.
+I'm currently living in Berlin and looking to expand my connections with the local tech community. I would love to meet up and engage in discussions about software engineering, startups, open source, or any other areas of mutual interest.
 
-If you'd like to grab coffee or meetup, I'd love to connect. New acquaintances and potential collaborators welcome. 👋 Let's solve challenging problems and build impact together!
+If you're interested in grabbing a coffee or meeting up, I'd love to connect. 👋
 
 ---
 
