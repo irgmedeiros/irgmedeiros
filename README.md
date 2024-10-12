@@ -1,17 +1,19 @@
-### Hey there!! 👋 👋 </br></br>
+### Welcome! 👋 </br></br>
 
 <img src="https://raw.githubusercontent.com/irgmedeiros/irgmedeiros/main/Banner.png"/>
 
-> Software development, for me, is all about collaboratively solving problems, using everyone's skills to the max, and having fun along the way. It's like an escape-room game puzzle! 🧩 💪👫 🧑‍💻 🎉 🏃‍♀️🚪
+> I am passionate about building impactful tech solutions and find software development most rewarding when it's a collaborative effort.
 
 <hr></hr>
 
 
 I am an experienced **senior software engineer** with over a decade of experience designing and leading development of **User-Centered Web Apps and APIs** . I'm passionate about building solutions that create real value for users and have meaningful impact.
 
-I'm currently living in Berlin and looking to expand my connections with the local tech community. I would love to meet up and engage in discussions about software engineering, startups, open source, or any other areas of mutual interest.
+I am a **Senior Software Engineer** with over a decade of specialized experience in **SaaS development**, **cloud-native architectures**, and **web application engineering**. Currently, I leverage my expertise at **Babbel** advancing language learning technologies by developing scalable, high-performance solutions utilizing **AWS Lambda**, **Kinesis**, **DynamoDB**, as well as **agile methodologies** and **event-driven architectures (EDA)**. Additionally, I lead engineering enablement initiatives across teams to enhance developer experience and productivity.
 
-If you're interested in grabbing a coffee or meeting up, I'd love to connect. 👋
+I am an advocate for open source and an active participant in the Python community, having organized numerous Python meetups in the past. My interests also extend to applied AI, particularly its capacity to elevate software engineering practices.
+
+Based in **Berlin**, I am enthusiastic about connecting with the local tech community. Feel free to reach out if you'd like to discuss software engineering or meet for a coffee.
 
 ---
 
